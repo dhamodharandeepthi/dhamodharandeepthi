@@ -2,7 +2,8 @@
 
 MERN Stack Developer
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my [portfolio](https://porfolio-dhamodharan.netlify.app/)                                                 
+- 🔭 Here's my [Portfolio](https://porfolio-dhamodharan.netlify.app/)                                                 
+- 🔭 Here's my [Resume](https://docs.google.com/document/d/1P24eojboBpSoNQkw2Y0cCkfpZ6LRYiYi3rXir4d_WWQ/edit)                                                 
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on ML/AI
 - 🤔 I’m looking for help with Placements
